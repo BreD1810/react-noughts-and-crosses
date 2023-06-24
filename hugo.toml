@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://bred1810.github.io/react-noughts-and-crosses'
 title = 'React Noughts and Crosses'
 theme = "hugo-book"
 

@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: false
-title: "Setup"
+title: "1. Setup"
 ---
 
 # Introduction
