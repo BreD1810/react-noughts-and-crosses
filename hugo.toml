@@ -1,0 +1,22 @@
+baseURL = 'http://example.org/'
+title = 'React Noughts and Crosses'
+theme = "hugo-book"
+
+[markup]
+[markup.goldmark.renderer]
+    unsafe = true
+
+[menu]
+[[menu.after]]
+    name = "Code"
+    url = "https://github.com/bred1810/react-noughts-and-crosses"
+    weight = 10
+
+# See details at https://github.com/alex-shpak/hugo-book
+[params]
+    BookTheme = 'light'
+    BookToC = true
+    BookSearch = false
+    BookComments = false
+    BookLogo = "favicon.png"
+    BookSection = 'docs'
