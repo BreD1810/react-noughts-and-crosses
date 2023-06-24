@@ -31,6 +31,8 @@ export default function Square({ value }) {
 
 When you click one of the squares, you should see `clicked!` in the console.
 
+## Remembering Which Squares Have Been Clicked
+
 Now we want the page to remember which squares have been clicked by filling them with an 'X'.
 To remember things, our components use *state*.
 React gives us a special function called `useState` to let our component remember things.
